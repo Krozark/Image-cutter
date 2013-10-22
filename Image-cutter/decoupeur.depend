@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1382427151 source:/media/HDD1/DEV/Projet/C-cpp/decoupeur_images/main.cpp
+	<iostream>
+	"stdlib.h"
+	"stdio.h"
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<sstream>
+
